@@ -2,6 +2,9 @@
 
 The idea is to extend our classic doorbell in order to hear also the doorbell at the 2nd floor.
 
+## Forum topic
+* https://community.openenergymonitor.org/t/connecting-my-doorbell-to-the-internet/14663
+
 ## Interesting Links
 
 * https://forum.livios.be/nl/technieken/elektriciteit/draadloze-bel-aansluiten-op-bestaande-bel
