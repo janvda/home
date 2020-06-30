@@ -2,6 +2,10 @@
 
 The idea is to extend our classic doorbell in order to hear also the doorbell at the 2nd floor.
 
+## Another idea
+
+Having the Voice AIY kit listening and recognizing the bell sound.
+
 ## Forum topic
 * https://community.openenergymonitor.org/t/connecting-my-doorbell-to-the-internet/14663
 
